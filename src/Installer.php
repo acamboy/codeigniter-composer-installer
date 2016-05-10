@@ -14,7 +14,7 @@ use Composer\Script\Event;
 
 class Installer
 {
-    const DOCROOT = 'public';
+    const DOCROOT = 'public_html';
 
     /**
      * Composer post install script
